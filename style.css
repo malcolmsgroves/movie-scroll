@@ -1,0 +1,34 @@
+body {
+  background-color: #0B2027;
+  color: #CFD7C7;
+}
+
+ul.movies {
+  list-style: none;
+}
+
+img.poster {
+  float: left;
+  height: 200px;
+}
+div.info {
+  float: left;
+  margin-right: 50px;
+  width: 400px;
+  background-color: #40798C;
+  color: white;
+  padding: 20px;
+  margin-bottom: 25px;
+}
+
+li.item {
+  clear: both;
+  content: ' ';
+}
+
+#loading {
+  text-align: center;
+  font-size: 30px;
+  margin: auto;
+  clear: both;
+}
